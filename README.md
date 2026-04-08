@@ -57,7 +57,7 @@ To get this project up and running locally, follow these steps:
    ```bash
    npm run dev
    ```
-   *The application will open in your default browser at `http://localhost:5173/`.*
+   *The application will open in your default browser at `https://calendar-jawf-git-main-rakesh-guptas-projects-0f363429.vercel.app/`.*
 
 ## 💡 Usage
 
@@ -68,13 +68,12 @@ To get this project up and running locally, follow these steps:
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application)*
 
 - **Calendar Grid View:**
-  *(Add screenshot here)*
+  *(![alt text](image.png))*
 
 - **Event Creation Modal:**
-  *(Add screenshot here)*
+  *(![alt text](image-1.png))*
 
 ## 🌐 Deployment
 
