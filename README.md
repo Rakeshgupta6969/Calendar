@@ -77,7 +77,7 @@ To get this project up and running locally, follow these steps:
 
 ## 🌐 Deployment
 
-Live Demo: [Link to Live App Placeholder]
+Live Demo: [https://youtu.be/cvlZkhn0ieM]
 
 ## 🔮 Future Improvements
 
