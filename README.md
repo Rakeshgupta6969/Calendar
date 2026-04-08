@@ -57,7 +57,7 @@ To get this project up and running locally, follow these steps:
    ```bash
    npm run dev
    ```
-   *The application will open in your default browser at `https://calendar-jawf-git-main-rakesh-guptas-projects-0f363429.vercel.app/`.*
+   *The application will open in your default browser at: [https://calendar-jawf-git-main-rakesh-guptas-projects-0f363429.vercel.app/]
 
 ## 💡 Usage
 
